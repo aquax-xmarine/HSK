@@ -1,19 +1,19 @@
 
-1. **请问** (*qǐngwèn*) – Excuse me
-2. **你** (*nǐ*) – You (singular)
-3. **叫** (*jiào*) – To be called as
-4. **什么** (*shénme*) – What
-5. **名字** (*míngzi*) – Name
-6. **我** (*wǒ*) – I; me
-7. **不** (*bù*) – Not; no
-8. **是** (*shì*) – To be
-9. **对不起** (*duìbuqǐ*) – Sorry
-10. **没关系** (*méi guānxi*) – That's all right; never mind
-11. **没事** (*méishì*) – It doesn't matter
-12. **很** (*hěn*) – Very
-13. **高兴** (*gāoxìng*) – Glad; happy
-14. **认识** (*rènshi*) – Know; become acquainted with
-15. **也** (*yě*) – Also; too
+1. **请问** (*qǐngwèn*) – Excuse me [36]
+2. **你** (*nǐ*) – You (singular) [32]
+3. **叫** (*jiào*) – To be called as [19]
+4. **什么** (*shénme*) – What [40]
+5. **名字** (*míngzi*) – Name [28]
+6. **我** (*wǒ*) – I; me [49]
+7. **不** (*bù*) – Not; no [3]
+8. **是** (*shì*) – To be [41]
+9. **对不起** (*duìbuqǐ*) – Sorry [10]
+10. **没关系** (*méi guānxi*) – That's all right; never mind [25]
+11. **没事** (*méishì*) – It doesn't matter [25]
+12. **很** (*hěn*) – Very [17]
+13. **高兴** (*gāoxìng*) – Glad; happy [13]
+14. **认识** (*rènshi*) – Know; become acquainted with [37]
+15. **也** (*yě*) – Also; too [57]
 
 ![[Pasted image 20260910090142.png]]
 ![[Pasted image 20260910090150.png]]
