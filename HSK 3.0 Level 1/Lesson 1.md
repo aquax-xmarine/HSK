@@ -14,3 +14,24 @@
 ![[Pasted image 20260910085812.png]]
 ![[Pasted image 20260910085819.png]]
 ![[Pasted image 20260910085827.png]]
+
+
+| Character | Meaning      | Appears in |
+| --------- | ------------ | ---------- |
+| **你**     | you          | 你好, 你们     |
+| **好**     | good         | 你好, 好      |
+| **大**     | big          | 大家         |
+| **家**     | home/family  | 大家         |
+| **学**     | study/learn  | 学生, 同学     |
+| **生**     | life/student | 学生         |
+| **们**     | plural       | 学生们, 你们    |
+| **老**     | old          | 老师         |
+| **师**     | teacher      | 老师         |
+| **谢**     | thank        | 谢谢         |
+| **不**     | not          | 不客气        |
+| **客**     | guest        | 不客气        |
+| **气**     | air/energy   | 不客气        |
+| **同**     | same         | 同学         |
+| **再**     | again        | 再见         |
+| **见**     | see          | 再见         |
+
