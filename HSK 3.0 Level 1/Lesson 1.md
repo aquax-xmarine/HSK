@@ -34,4 +34,4 @@
 | **同**     | same         | 同学         |
 | **再**     | again        | 再见         |
 | **见**     | see          | 再见         |
-
+16 new characters

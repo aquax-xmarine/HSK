@@ -44,3 +44,4 @@
 | **认**     | recognize; know        | 认识         |
 | **识**     | recognize; know        | 认识         |
 | **也**     | also; too              | 也          |
+21 new characters
